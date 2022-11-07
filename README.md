@@ -4,6 +4,8 @@
 
 Un système simple de vote, comprenant des programmes du serveur et des API de support côté client, basé sur un modèle multi-agent, qui peut initier, participer un vote et obtenir des résultats. Il prend en charge plusieurs algorithmes de vote courants.
 
+This projet is a mirror of Gitlab repository.
+
 Gitlab repository : [here](https://gitlab.utc.fr/wanhongz/ia04-vote).
 
 ---

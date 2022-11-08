@@ -111,6 +111,7 @@ En renseignant **ballot_Id** de type **string** obtenu précedemment(**votex**),
 Voir l'exemple ci-dessous.
 ![result](./image/result.png)
 
+
 En cas d'anomalie, **425** est retourné pour **Too early**, signifiant qu'il existe des votants qui n'ont pas encore voté, **404** pour **not found**.
 
 ### Fichier exécutable
